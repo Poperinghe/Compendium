@@ -1,6 +1,6 @@
 #WIP 
 
-Quantum Physics : rules and relations describing the physics of object at a subatomic scale (_aka._ particles).
+Quantum Physics : rules and relations describing the physics of object at a subatomic scale (_aka._ part icles).
 #### Notation
 
 >$\lambda$ = wavelength ($m$)
