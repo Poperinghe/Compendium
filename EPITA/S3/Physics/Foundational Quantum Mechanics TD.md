@@ -2,6 +2,7 @@
 
 Quantum Physics : rules and relations describing the physics of object at a subatomic scale (_aka. particles_).
 
+#if-you-see-this-it-worked
 #### Notation
 
 >$\lambda$ = wavelength ($m$)
