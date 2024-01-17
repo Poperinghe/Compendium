@@ -43,3 +43,21 @@ $$\Large = -\int_\limits{0}^{A}-\frac{2}{x_0}\;e^{-\frac{2x}{x_0}}\;dx$$
 $$\Large = -\left[e^{-\frac{2x}{x_0}}\right]_0^A$$
 $$\Large = -(e^{-\frac{2A}{x_0}}-1)$$
 $$\Large = 1-e^{-\frac{2A}{x_0}}$$
+
+4) Using our previous result:
+
+$$\Large P \geqslant 0.95$$
+$$\Large \Leftrightarrow 1-e^{-\frac{2A}{x_0}} \geqslant 0.95$$
+$$\Large \Leftrightarrow e^{-\frac{2A}{x_0}} \leqslant 0.05$$
+$$\Large \Leftrightarrow -\frac{2A}{x_0} \leqslant ln(0.05)$$
+$$\Large \Leftrightarrow -\frac{2A}{x_0} \leqslant -3$$
+$$\Large \Leftrightarrow A \geqslant \frac{3x_0}{2}$$
+
+### Exercise 2: Infinite Potential Quantum Well
+
+#### Notation
+
+#### Constants
+
+#### Intro
+Now that we know what a wave function is and what it can be used for, we will look at finding the expression of the wave function in a given situation.
