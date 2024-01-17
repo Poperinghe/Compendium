@@ -1,8 +1,7 @@
-# Integration
 
 ## Derivatives
 
-| fonction | Dérivée |
+| Function | Derivative |
 | --- | --- |
 | $f * g$ | $f’ * g + f * g’$ |
 | $f / g$ | $(f'*g - f*g' )/g²$ |
@@ -17,7 +16,7 @@
 
 ## Anti-Derivatives
 
-| fonction | Primitive |
+| Function | Primitive |
 | --- | --- |
 | $1/x^n$ | $-1/(n-1)x^{n-1}$ |
 | $u’u$ | $u²/2$ |
@@ -86,22 +85,9 @@ $Sec (x) = 1 / cos(x)$
 
 $Cosec (x) = 1 / sin(x)$
 
-$$
-Cot (x) = \frac 1 {tan (x)} = \frac {cos (x)}{sin(x)}
-$$
+$Cot (x) = \frac 1 {tan (x)} = \frac {cos (x)}{sin(x)}$
 
-<aside>
-📌 Theorem  :  $Sec^2(x) = 1 + tan^2(x)$
 
-</aside>
+Theorem  :  $Sec^2(x) = 1 + tan^2(x)$
 
-<aside>
-📌 Theorem  :  $(tan(x))' = sec^2(x) = 1 / cos^2(x)$
-
-</aside>
-
-## Cerebral fitness  :
-
----
-
-[1 integral a day keeps the doctor away](https://www.youtube.com/c/IntegralsForYou)
+Theorem  :  $(tan(x))' = sec^2(x) = 1 / cos^2(x)$

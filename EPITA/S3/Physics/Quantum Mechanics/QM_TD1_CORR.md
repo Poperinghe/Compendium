@@ -1,14 +1,16 @@
 #WIP 
 
-Quantum Physics : rules and relations describing the physics of object at a subatomic scale (_aka._ part icles).
+**Linked Subject:** [[QM_TD1_SUBJ.pdf]] 
+
+Quantum Physics : rules and relations describing the physics of object at a subatomic scale (_aka._ particles).
 #### Notation
 
->$\lambda$ = wavelength ($m$)
->$T$ = temperature ($K$)
->$f$ = frequency ($s^{-1}$)
->$E$ = energy ($J$)
->$<E>$ = average energy ($J$)
->$c$ = speed of light in free space ($m \cdot s^{-1}$)
+>$\lambda$ : wavelength ($m$)
+>$T$ : temperature ($K$)
+>$f$ : frequency ($s^{-1}$)
+>$E$ : energy ($J$)
+>$<E>$ : average energy ($J$)
+>$c$ : speed of light in free space ($m \cdot s^{-1}$)
 
 
 ![[ElectromagSpectrum.jpeg]]
@@ -137,19 +139,19 @@ Therefore, using the assumptions of classical physics, we come to the conclusion
 
 $$
 \LARGE
-U(\lambda,T) = \int_{0}^{\infty}u(\lambda,T)\;d\lambda
+U(\lambda,T) = \int_\limits{0}^{\infty}u(\lambda,T)\;d\lambda
 $$
 <br>
 
 $$
 \LARGE
-U(\lambda,T) = \int_{0}^{\infty}\frac{8\pi k_{B}T}{c\lambda^{2}}\;d\lambda
+U(\lambda,T) = \int_\limits{0}^{\infty}\frac{8\pi k_{B}T}{c\lambda^{2}}\;d\lambda
 $$
 <br>
 
 $$
 \LARGE
-U(\lambda,T) = \frac{8\pi k_{B}T}{c}\times \int_{0}^{\infty}\frac{1}{\lambda^{2}}\;d\lambda
+U(\lambda,T) = \frac{8\pi k_{B}T}{c}\times \int_\limits{0}^{\infty}\frac{1}{\lambda^{2}}\;d\lambda
 $$
 <br>
 
@@ -179,19 +181,19 @@ We will now take this problem from a new angle with Max Planck's idea of "quanti
 
 $$
 \LARGE
-<E>\;=\frac{\sum_{n=0}^{\infty}\;P(nE_{0})\times nE_{0}}{\sum_{n=0}^{\infty}\;P(nE_{0})}
+<E>\;=\frac{\sum_\limits{n=0}^{\infty}\;P(nE_{0})\times nE_{0}}{\sum_\limits{n=0}^{\infty}\;P(nE_{0})}
 $$
 <br>
 
 $$
 \LARGE
-<E>\;=\frac{\sum_{n=0}^{\infty}\;nE_{0}e^{-\frac{nE_{0}}{k_{B}T}}}{\sum_{n=0}^{\infty}\;e^{-\frac{nE_{0}}{k_{B}T}}}
+<E>\;=\frac{\sum_\limits{n=0}^{\infty}\;nE_{0}e^{-\frac{nE_{0}}{k_{B}T}}}{\sum_\limits{n=0}^{\infty}\;e^{-\frac{nE_{0}}{k_{B}T}}}
 $$
 <br>
 
 $$
 \LARGE
-<E>\;=\frac{\sum_{n=0}^{\infty}\;nE_{0}e^{-\frac{nE_{0}}{k_{B}T}}}{e^{-\frac{}{}}\sum_{n=0}^{\infty}\;e^{-\frac{nE_{0}}{k_{B}T}}}
+<E>\;=\frac{\sum_\limits{n=0}^{\infty}\;nE_{0}e^{-\frac{nE_{0}}{k_{B}T}}}{e^{-\frac{}{}}\sum_\limits{n=0}^{\infty}\;e^{-\frac{nE_{0}}{k_{B}T}}}
 $$
 <br>
 

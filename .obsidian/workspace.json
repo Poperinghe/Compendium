@@ -8,18 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "81d5ab1dca7c905c",
+            "id": "593a3cacbf69f592",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EPITA/S3/Physics/Foundational Quantum Mechanics TD.md",
+                "file": "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
-            }
+            },
+            "group": "18cf46f8f4d54e03"
           }
         ]
+      },
+      {
+        "id": "c2f90a3f92944508",
+        "type": "split",
+        "children": [
+          {
+            "id": "85dd2047e1c803d7",
+            "type": "tabs",
+            "dimension": 32.22222222222222,
+            "children": [
+              {
+                "id": "9fab959851e638d7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "18cf46f8f4d54e03"
+              }
+            ]
+          },
+          {
+            "id": "d87e109bc6f412d5",
+            "type": "tabs",
+            "dimension": 67.77777777777779,
+            "children": [
+              {
+                "id": "3c24a309fd247188",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_SUBJ.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -69,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 254.5
   },
   "right": {
     "id": "329692338c123e01",
@@ -85,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPITA/S3/Physics/Foundational Quantum Mechanics TD.md",
+                "file": "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPITA/S3/Physics/Foundational Quantum Mechanics TD.md",
+                "file": "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPITA/S3/Physics/Foundational Quantum Mechanics TD.md"
+                "file": "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md"
               }
             }
           }
@@ -146,8 +191,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81d5ab1dca7c905c",
+  "active": "593a3cacbf69f592",
   "lastOpenFiles": [
-    "EPITA/S3/Physics/Foundational Quantum Mechanics TD.md"
+    "EPITA/S3/Physics/Quantum Mechanics/QM_TD1_CORR.md",
+    "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md",
+    "EPITA/S3/Physics/Quantum Mechanics/QM_TD2_CORR.md",
+    "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_SUBJ.pdf",
+    "EPITA/S3/Physics/Electro-Magnetism/EM_TD3_SUBJ.pdf",
+    "EPITA/S3/Physics/Electro-Magnetism/EM_TD2_SUBJ.pdf",
+    "EPITA/S3/Physics/Electro-Magnetism/EM_TD1_SUBJ.pdf",
+    "EPITA/S3/Physics/Electro-Magnetism/EM_LECTURE.pdf",
+    "EPITA/S3/Physics/Quantum Mechanics/QM_TD2_SUBJ.pdf",
+    "Untitled.canvas",
+    "Greek Alphabet.md",
+    "Resources/QuantumEnergyLevels.png",
+    "Resources/ElectromagSpectrumAnnotated.jpg",
+    "EPITA/S3/Physics/Electro-Magnetism",
+    "EPITA/S3/Physics/Quantum Mechanics/QM_TD1_SUBJ.pdf",
+    "Resources/QuantizedElectronLayers.png",
+    "Resources/NielsBohrAtom.png",
+    "Quantum Physics.md",
+    "Resources/ElectromagSpectrum.jpeg",
+    "Math/Calculus - Basics.md",
+    "EPITA/S3/Physics/Quantum Mechanics",
+    "Untitled",
+    "Math/Integration by Parts.md"
   ]
 }

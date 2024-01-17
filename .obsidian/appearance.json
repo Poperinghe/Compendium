@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "#35ac52",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Mononoki Nerd Font",
+  "textFontFamily": "Mononoki Nerd Font",
+  "monospaceFontFamily": "Mononoki Nerd Font Mono"
 }
