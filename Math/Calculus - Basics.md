@@ -17,16 +17,17 @@
 ## Anti-Derivatives
 
 | Function | Primitive |
-| --- | --- |
+| ---- | ---- |
 | $1/x^n$ | $-1/(n-1)x^{n-1}$ |
 | $u’u$ | $u²/2$ |
 | $u’u^n$ | $u^{n+1}/n+1$ |
 | $u’/√u$ | $2√u$ |
 | $u’/u^n$ | $-1/(n-1)u^{n-1}$ |
-| $u’/u$ | $ln(|u|)$ |
+| $u’/u$ | $ln( \lvert u \rvert )$ |
 | $u’e^u$ | $e^u$ |
 | $u’ cos(u)$ | $sin(u)$ |
 | $u’ sin(u)$ | $-cos(u)$ |
+| $ln(x)$ | $xln(x)-x$ |
 
 ## Integration :
 

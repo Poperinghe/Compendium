@@ -4,67 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "59a2e75f811060a0",
+        "id": "a5b4c2d8bcd1c356",
         "type": "tabs",
         "children": [
           {
-            "id": "593a3cacbf69f592",
+            "id": "04dee7385f07cb0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "18cf46f8f4d54e03"
-          }
-        ]
-      },
-      {
-        "id": "c2f90a3f92944508",
-        "type": "split",
-        "children": [
-          {
-            "id": "85dd2047e1c803d7",
-            "type": "tabs",
-            "dimension": 32.22222222222222,
-            "children": [
-              {
-                "id": "9fab959851e638d7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                },
-                "group": "18cf46f8f4d54e03"
-              }
-            ]
+              "type": "graph",
+              "state": {}
+            }
           },
           {
-            "id": "d87e109bc6f412d5",
-            "type": "tabs",
-            "dimension": 67.77777777777779,
-            "children": [
-              {
-                "id": "3c24a309fd247188",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_SUBJ.pdf"
-                  }
-                }
+            "id": "d51b25edb36c08f9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_03.pdf"
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 298.5
   },
   "right": {
     "id": "329692338c123e01",
@@ -130,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md",
+                "file": "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_03.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md",
+                "file": "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_03.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md"
+                "file": "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_03.pdf"
               }
             }
           }
@@ -191,30 +153,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "593a3cacbf69f592",
+  "active": "d51b25edb36c08f9",
   "lastOpenFiles": [
-    "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_SUBJ.pdf",
+    "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_02.pdf",
+    "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_01.pdf",
+    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Chapter 1 02-09-24/TD1.pdf",
+    "Math/Calculus - Basics.md",
+    "UQAC/VR/Mini-Presentation (semaine 4).md",
+    "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_03.pdf",
+    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Chapter 1 02-09-24",
+    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Untitled.md",
+    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences",
+    "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheets.pdf",
+    "Personal/Arch/Config.md",
+    "EPITA/S5/HarmoMath/Logical Formalism",
+    "EPITA/S5/HarmoMath",
+    "EPITA/S5",
+    "EPITA/MiniTP_ClementPochart.md",
+    "Reference/Callouts.md",
     "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md",
-    "EPITA/S3/Physics/Quantum Mechanics/QM_TD1_CORR.md",
     "EPITA/S3/Physics/Quantum Mechanics/QM_TD2_CORR.md",
-    "EPITA/S3/Physics/Electro-Magnetism/EM_TD3_SUBJ.pdf",
-    "EPITA/S3/Physics/Electro-Magnetism/EM_TD2_SUBJ.pdf",
-    "EPITA/S3/Physics/Electro-Magnetism/EM_TD1_SUBJ.pdf",
-    "EPITA/S3/Physics/Electro-Magnetism/EM_LECTURE.pdf",
-    "EPITA/S3/Physics/Quantum Mechanics/QM_TD2_SUBJ.pdf",
+    "EPITA/S3/Physics/Quantum Mechanics/QM_TD1_CORR.md",
+    "Resources/ExampleDatabaseTable.png",
+    "Personal/Color Themes.md",
+    "Reference/Greek Alphabet.md",
+    "Reference/Latex.md",
+    "Highlights.md",
+    "Resources/BodySlotInventory.jpg",
     "Untitled.canvas",
-    "Greek Alphabet.md",
     "Resources/QuantumEnergyLevels.png",
     "Resources/ElectromagSpectrumAnnotated.jpg",
-    "EPITA/S3/Physics/Electro-Magnetism",
-    "EPITA/S3/Physics/Quantum Mechanics/QM_TD1_SUBJ.pdf",
     "Resources/QuantizedElectronLayers.png",
     "Resources/NielsBohrAtom.png",
     "Quantum Physics.md",
     "Resources/ElectromagSpectrum.jpeg",
-    "Math/Calculus - Basics.md",
-    "EPITA/S3/Physics/Quantum Mechanics",
-    "Untitled",
     "Math/Integration by Parts.md"
   ]
 }
