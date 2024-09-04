@@ -21,7 +21,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_03.pdf"
+                "file": "EPITA/S5/HarmoMath/Functions of Multiple Variables/TD1.pdf"
               }
             }
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_03.pdf",
+                "file": "EPITA/S5/HarmoMath/Functions of Multiple Variables/TD1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_03.pdf",
+                "file": "EPITA/S5/HarmoMath/Functions of Multiple Variables/TD1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_03.pdf"
+                "file": "EPITA/S5/HarmoMath/Functions of Multiple Variables/TD1.pdf"
               }
             }
           }
@@ -155,20 +155,21 @@
   },
   "active": "d51b25edb36c08f9",
   "lastOpenFiles": [
+    "EPITA/Calculus - Basics.md",
+    "Reference/Greek Alphabet.md",
+    "EPITA/S5/HarmoMath/Functions of Multiple Variables/TD1.pdf",
+    "EPITA/S5/HarmoMath/Functions of Multiple Variables/TD2.pdf",
+    "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_03.pdf",
     "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_02.pdf",
     "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_01.pdf",
     "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Chapter 1 02-09-24/TD1.pdf",
-    "Math/Calculus - Basics.md",
     "UQAC/VR/Mini-Presentation (semaine 4).md",
-    "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_03.pdf",
     "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Chapter 1 02-09-24",
     "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Untitled.md",
     "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences",
     "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheets.pdf",
     "Personal/Arch/Config.md",
     "EPITA/S5/HarmoMath/Logical Formalism",
-    "EPITA/S5/HarmoMath",
-    "EPITA/S5",
     "EPITA/MiniTP_ClementPochart.md",
     "Reference/Callouts.md",
     "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md",
@@ -176,7 +177,6 @@
     "EPITA/S3/Physics/Quantum Mechanics/QM_TD1_CORR.md",
     "Resources/ExampleDatabaseTable.png",
     "Personal/Color Themes.md",
-    "Reference/Greek Alphabet.md",
     "Reference/Latex.md",
     "Highlights.md",
     "Resources/BodySlotInventory.jpg",
