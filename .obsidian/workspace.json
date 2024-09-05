@@ -21,12 +21,30 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "EPITA/S5/HarmoMath/Function Approximations/TD1.pdf"
+                "file": "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/TD1_corr.pdf"
               }
-            }
+            },
+            "group": "1aedf9acd1756a0f"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "3315a8da97d37007",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8bf93d64cf6432d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/TD1_corr.pdf"
+              }
+            },
+            "group": "1aedf9acd1756a0f"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPITA/S5/HarmoMath/Function Approximations/TD1.pdf",
+                "file": "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/TD1_corr.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPITA/S5/HarmoMath/Function Approximations/TD1.pdf",
+                "file": "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/TD1_corr.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPITA/S5/HarmoMath/Function Approximations/TD1.pdf"
+                "file": "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/TD1_corr.pdf"
               }
             }
           }
@@ -155,27 +173,26 @@
   },
   "active": "d51b25edb36c08f9",
   "lastOpenFiles": [
-    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Chapter 1 02-09-24/TD1.pdf",
-    "EPITA/S5/HarmoMath/Function Approximations/TD1.pdf",
-    "EPITA/S5/HarmoMath/Function Approximations",
-    "EPITA/S5/HarmoMath/Functions of Multiple Variables/TD1.pdf",
-    "EPITA/Calculus - Basics.md",
-    "Reference/Greek Alphabet.md",
-    "EPITA/S5/HarmoMath/Functions of Multiple Variables/TD2.pdf",
+    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Theorems.md",
+    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/TD1.pdf",
+    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/TD1_corr.pdf",
+    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Chap01Lectures01.pdf",
+    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Chap01Lectures02.pdf",
     "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_03.pdf",
     "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_02.pdf",
     "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_01.pdf",
-    "UQAC/VR/Mini-Presentation (semaine 4).md",
-    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Chapter 1 02-09-24",
-    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Untitled.md",
-    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences",
-    "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheets.pdf",
-    "Personal/Arch/Config.md",
-    "EPITA/MiniTP_ClementPochart.md",
     "Reference/Callouts.md",
     "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md",
     "EPITA/S3/Physics/Quantum Mechanics/QM_TD2_CORR.md",
+    "EPITA/S5/HarmoMath/Functions of Multiple Variables/TD1.pdf",
     "EPITA/S3/Physics/Quantum Mechanics/QM_TD1_CORR.md",
+    "EPITA/S5/HarmoMath/Function Approximations/TD1.pdf",
+    "EPITA/S5/HarmoMath/Function Approximations",
+    "EPITA/Calculus - Basics.md",
+    "Reference/Greek Alphabet.md",
+    "UQAC/VR/Mini-Presentation (semaine 4).md",
+    "Personal/Arch/Config.md",
+    "EPITA/MiniTP_ClementPochart.md",
     "Resources/ExampleDatabaseTable.png",
     "Personal/Color Themes.md",
     "Reference/Latex.md",
