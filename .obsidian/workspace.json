@@ -4,45 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a5b4c2d8bcd1c356",
+        "id": "f2ce2566af53a04d",
         "type": "tabs",
         "children": [
           {
-            "id": "04dee7385f07cb0e",
+            "id": "0db497b345be261f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "EPITA/S5/Digital Ethics/Intro (draft).md",
+                "mode": "source",
+                "source": false
+              }
             }
-          },
-          {
-            "id": "d51b25edb36c08f9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/TD1_corr.pdf"
-              }
-            },
-            "group": "1aedf9acd1756a0f"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "3315a8da97d37007",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e8bf93d64cf6432d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/TD1_corr.pdf"
-              }
-            },
-            "group": "1aedf9acd1756a0f"
           }
         ]
       }
@@ -56,6 +31,7 @@
       {
         "id": "9008876c422beae0",
         "type": "tabs",
+        "dimension": 69.17098445595855,
         "children": [
           {
             "id": "31777bb11e739b25",
@@ -91,6 +67,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "2578aea5e2974ed8",
+        "type": "tabs",
+        "dimension": 30.82901554404145,
+        "children": [
+          {
+            "id": "f34de34b8ed545fd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/TD1_corr.pdf",
+                "file": "EPITA/S5/Digital Ethics/Intro (draft).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/TD1_corr.pdf",
+                "file": "EPITA/S5/Digital Ethics/Intro (draft).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/TD1_corr.pdf"
+                "file": "EPITA/S5/Digital Ethics/Intro (draft).md"
               }
             }
           }
@@ -171,31 +162,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d51b25edb36c08f9",
+  "active": "0db497b345be261f",
   "lastOpenFiles": [
-    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Theorems.md",
-    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/TD1.pdf",
-    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/TD1_corr.pdf",
-    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Chap01Lectures01.pdf",
-    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Chap01Lectures02.pdf",
+    "EPITA/S5/Digital Ethics/Intro (draft).md~",
+    "EPITA/S5/Networking Elements 1/Intro (draft).md",
+    "EPITA/S5/Digital Ethics/Intro (draft).md",
+    "EPITA/S5/Digital Ethics",
+    "EPITA/S5/HarmoMath/Function Approximations/Chap03Lectures/Chap03Lectures02.pdf",
+    "EPITA/S5/Networking Elements 1",
+    "EPITA/S5/HarmoMath/Function Approximations/TD4.pdf",
     "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_03.pdf",
-    "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_02.pdf",
-    "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_01.pdf",
-    "Reference/Callouts.md",
-    "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md",
-    "EPITA/S3/Physics/Quantum Mechanics/QM_TD2_CORR.md",
-    "EPITA/S5/HarmoMath/Functions of Multiple Variables/TD1.pdf",
-    "EPITA/S3/Physics/Quantum Mechanics/QM_TD1_CORR.md",
-    "EPITA/S5/HarmoMath/Function Approximations/TD1.pdf",
-    "EPITA/S5/HarmoMath/Function Approximations",
-    "EPITA/Calculus - Basics.md",
-    "Reference/Greek Alphabet.md",
-    "UQAC/VR/Mini-Presentation (semaine 4).md",
+    "EPITA/S5/HarmoMath/Function Approximations/TD4_legacy.pdf",
+    "EPITA/S5/HarmoMath/Function Approximations/Chap03Lectures/Chap03Lectures03.pdf",
+    "EPITA/S5/HarmoMath/Function Approximations/Chap02Lectures/Chap02Lectures04.pdf",
+    "EPITA/S5/HarmoMath/Functions of Multiple Variables/Lectures02.pdf",
+    "EPITA/S5/HarmoMath/Functions of Multiple Variables/Lectures04.pdf",
+    "EPITA/S5/Carte Mentale APXF.canvas",
+    "Personal/Arch/dotfiles/i3.md",
+    "Personal/Color Themes.md",
+    "Personal/Arch/dotfiles/bash.md",
     "Personal/Arch/Config.md",
+    "Personal/Arch/dotfiles/tmux.md",
+    "Personal/Arch/dotfiles/alacritty.md",
+    "Personal/Arch/dotfiles/polybar.md",
+    "Personal/Arch/dotfiles/vim.md",
+    "Personal/Arch/dotfiles/emacs.md",
+    "Math/Taylor Expansions.md",
+    "Math/Calculus - Basics.md",
+    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Theorems.md",
+    "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md",
+    "EPITA/S3/Physics/Quantum Mechanics/QM_TD1_CORR.md",
+    "Reference/Callouts.md",
+    "Reference/Latex.md",
+    "Reference/Greek Alphabet.md",
+    "EPITA/S3/Physics/Quantum Mechanics/QM_TD2_CORR.md",
+    "UQAC/VR/Mini-Presentation (semaine 4).md",
     "EPITA/MiniTP_ClementPochart.md",
     "Resources/ExampleDatabaseTable.png",
-    "Personal/Color Themes.md",
-    "Reference/Latex.md",
     "Highlights.md",
     "Resources/BodySlotInventory.jpg",
     "Untitled.canvas",
