@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"16cb9c806a6fde20","type":"group","x":960,"y":-340,"width":1020,"height":880,"label":"WAN"},
+		{"id":"73c4d8de131f4061","type":"group","x":-100,"y":-340,"width":780,"height":760,"label":"TPX270"},
+		{"id":"c2bb14c2ea976fe7","type":"group","x":-80,"y":140,"width":330,"height":260,"label":"clementpoch.art (website)"},
+		{"id":"2e1649313b95e4c4","type":"group","x":400,"y":230,"width":260,"height":170,"label":"ngrok agent"},
+		{"id":"1e1159b9bfd96124","type":"text","text":"Toolbox/\n├── dotfiles\n│   ├── .bashrc\n│   ├── .config\n│   │   ├── alacritty\n│   │   ├── i3\n│   │   ├── polybar\n│   │   └── tmux\n│   ├── .emacs\n│   ├── .emacs.d\n│   ├── .tmux.conf\n│   └── .vimrc\n├── scripts\n└── wallpapers","x":-80,"y":-320,"width":330,"height":400},
+		{"id":"e9bd19217618286b","type":"text","text":"http_server.Dockerfile","x":-60,"y":160,"width":290,"height":60},
+		{"id":"81f40ae7b7fb69b1","type":"text","text":"nginx (DOCKER)\n\n- nginx.conf\n- /www/data/index.html","x":-60,"y":240,"width":290,"height":140},
+		{"id":"80d6af6d4d5432d7","type":"text","text":"http_server_tunnel","x":415,"y":250,"width":229,"height":60,"color":"1"},
+		{"id":"673becb7da5dde9c","type":"text","text":"ssh_server_tunnel","x":415,"y":320,"width":229,"height":60},
+		{"id":"c66284c9bc9123fb","type":"text","text":"22","x":601,"y":-315,"width":87,"height":50},
+		{"id":"d68085df01fd0609","type":"text","text":"80","x":601,"y":-260,"width":87,"height":50},
+		{"id":"4c7d12e9173eadcd","type":"text","text":"TUNNEL\n8.tcp.eu.ngrok.io","x":1000,"y":-305,"width":280,"height":80},
+		{"id":"863b2687199d7a3b","type":"text","text":"29029","x":1200,"y":-290,"width":118,"height":50},
+		{"id":"57e0dbf4bcaa5018","type":"text","text":"# **?**","x":1440,"y":60,"width":63,"height":65}
+	],
+	"edges":[
+		{"id":"3c731659bb6ae4a5","fromNode":"e9bd19217618286b","fromSide":"bottom","toNode":"81f40ae7b7fb69b1","toSide":"top"},
+		{"id":"aaa564bb56c7796f","fromNode":"1e1159b9bfd96124","fromSide":"right","toNode":"c66284c9bc9123fb","toSide":"left"},
+		{"id":"85c99af3878f6dd6","fromNode":"c2bb14c2ea976fe7","fromSide":"right","toNode":"d68085df01fd0609","toSide":"left"},
+		{"id":"b2e3b1c9bf43cfec","fromNode":"4c7d12e9173eadcd","fromSide":"left","toNode":"c66284c9bc9123fb","toSide":"right"},
+		{"id":"48f2acc71c1ab8c0","fromNode":"57e0dbf4bcaa5018","fromSide":"top","toNode":"863b2687199d7a3b","toSide":"right"},
+		{"id":"845a0bde60e341df","fromNode":"673becb7da5dde9c","fromSide":"right","toNode":"4c7d12e9173eadcd","toSide":"bottom"}
+	]
+}

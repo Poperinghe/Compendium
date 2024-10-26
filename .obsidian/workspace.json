@@ -11,12 +11,32 @@
             "id": "0db497b345be261f",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "EPITA/S5/Signal Processing/Lecture02.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture02"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e4222b4651aa55aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63047f7a548ecc8d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "EPITA/S5/Digital Ethics/Intro (draft).md",
+                "file": "EPITA/S5/Signal Processing/LectureNotes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "LectureNotes"
             }
           }
         ]
@@ -31,7 +51,7 @@
       {
         "id": "9008876c422beae0",
         "type": "tabs",
-        "dimension": 69.17098445595855,
+        "dimension": 52.87128712871287,
         "children": [
           {
             "id": "31777bb11e739b25",
@@ -40,7 +60,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +77,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -71,21 +97,24 @@
       {
         "id": "2578aea5e2974ed8",
         "type": "tabs",
-        "dimension": 30.82901554404145,
+        "dimension": 47.12871287128713,
         "children": [
           {
             "id": "f34de34b8ed545fd",
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "329692338c123e01",
@@ -109,7 +138,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Intro (draft)"
             }
           },
           {
@@ -121,7 +152,9 @@
                 "file": "EPITA/S5/Digital Ethics/Intro (draft).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Intro (draft)"
             }
           },
           {
@@ -132,7 +165,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -142,7 +177,9 @@
               "type": "outline",
               "state": {
                 "file": "EPITA/S5/Digital Ethics/Intro (draft).md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Intro (draft)"
             }
           }
         ]
@@ -155,59 +192,62 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false
     }
   },
   "active": "0db497b345be261f",
   "lastOpenFiles": [
-    "EPITA/S5/Digital Ethics/Intro (draft).md~",
-    "EPITA/S5/Networking Elements 1/Intro (draft).md",
-    "EPITA/S5/Digital Ethics/Intro (draft).md",
-    "EPITA/S5/Digital Ethics",
-    "EPITA/S5/HarmoMath/Function Approximations/Chap03Lectures/Chap03Lectures02.pdf",
-    "EPITA/S5/Networking Elements 1",
-    "EPITA/S5/HarmoMath/Function Approximations/TD4.pdf",
-    "EPITA/S5/HarmoMath/Logical Formalism/ExerciseSheet_03.pdf",
-    "EPITA/S5/HarmoMath/Function Approximations/TD4_legacy.pdf",
-    "EPITA/S5/HarmoMath/Function Approximations/Chap03Lectures/Chap03Lectures03.pdf",
-    "EPITA/S5/HarmoMath/Function Approximations/Chap02Lectures/Chap02Lectures04.pdf",
-    "EPITA/S5/HarmoMath/Functions of Multiple Variables/Lectures02.pdf",
-    "EPITA/S5/HarmoMath/Functions of Multiple Variables/Lectures04.pdf",
-    "EPITA/S5/Carte Mentale APXF.canvas",
-    "Personal/Arch/dotfiles/i3.md",
-    "Personal/Color Themes.md",
-    "Personal/Arch/dotfiles/bash.md",
-    "Personal/Arch/Config.md",
-    "Personal/Arch/dotfiles/tmux.md",
-    "Personal/Arch/dotfiles/alacritty.md",
-    "Personal/Arch/dotfiles/polybar.md",
-    "Personal/Arch/dotfiles/vim.md",
-    "Personal/Arch/dotfiles/emacs.md",
-    "Math/Taylor Expansions.md",
-    "Math/Calculus - Basics.md",
-    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Theorems.md",
-    "EPITA/S3/Physics/Quantum Mechanics/QM_TD3_CORR.md",
-    "EPITA/S3/Physics/Quantum Mechanics/QM_TD1_CORR.md",
+    "EPITA/S5/Signal Processing/LectureNotes.md",
+    "EPITA/S5/Signal Processing/Lecture02.pdf",
+    "EPITA/S5/Signal Processing/Lecture01.pdf",
     "Reference/Callouts.md",
     "Reference/Latex.md",
     "Reference/Greek Alphabet.md",
-    "EPITA/S3/Physics/Quantum Mechanics/QM_TD2_CORR.md",
-    "UQAC/VR/Mini-Presentation (semaine 4).md",
-    "EPITA/MiniTP_ClementPochart.md",
+    "EPITA/S5/Signal Processing/#Introduction (draft).md#",
+    "EPITA/S5/Signal Processing/Introduction (draft).md~",
+    "Personal/Daedalus Arch Config/Config.md",
+    "Personal/Daedalus Arch Config/Config.md~",
+    "EPITA/S5/Social and Environmental Impacts of IT/Introduction (draft)",
+    "EPITA/S5/Social and Environmental Impacts of IT/Introduction (draft)~",
+    "EPITA/Untitled.md",
+    "EPITA/S5/Social and Environmental Impacts of IT",
+    "Personal/Homelab Current.canvas",
+    "2024-10-23.md",
+    "EPITA/S5/Networking Elements 1/Intro (draft).md",
+    "EPITA/S5/Networking Elements 1/Class 1.md",
+    "EPITA/S5/Operating Systems/Class 1.md",
+    "EPITA/S5/Digital Ethics/Intro (draft).md",
+    "EPITA/S5/Operating Systems",
+    "EPITA/S5/DCT/SWOT.md",
+    "Personal/Daedalus Arch Config/dotfiles/emacs.md",
+    "Personal/Daedalus Arch Config/dotfiles/bash.md",
+    "EPITA/S5/Signal Processing",
+    "Personal/Homelab Goal.canvas",
+    "EPITA/S5/Language Theory/Class 2.md",
+    "EPITA/S5/Language Theory/Untitled.canvas",
+    "Resources/LOGO_Docker.png",
+    "Personal/Color Themes.md",
+    "Personal/Daedalus Arch Config/dotfiles/alacritty.md",
+    "Untitled.md",
+    "EPITA/S5/Carte Mentale APXF.canvas",
+    "Personal/Daedalus Arch Config/dotfiles/i3.md",
+    "Personal/Daedalus Arch Config/dotfiles/tmux.md",
+    "Personal/Daedalus Arch Config/dotfiles/polybar.md",
+    "Personal/Daedalus Arch Config/dotfiles/vim.md",
+    "Math/Taylor Expansions.md",
+    "Math/Calculus - Basics.md",
+    "EPITA/S5/HarmoMath/Generalized Integrals & Integral Sequences/Theorems.md",
     "Resources/ExampleDatabaseTable.png",
-    "Highlights.md",
     "Resources/BodySlotInventory.jpg",
     "Untitled.canvas",
     "Resources/QuantumEnergyLevels.png",
     "Resources/ElectromagSpectrumAnnotated.jpg",
     "Resources/QuantizedElectronLayers.png",
     "Resources/NielsBohrAtom.png",
-    "Quantum Physics.md",
-    "Resources/ElectromagSpectrum.jpeg",
-    "Math/Integration by Parts.md"
+    "Resources/ElectromagSpectrum.jpeg"
   ]
 }

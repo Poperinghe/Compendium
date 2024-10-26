@@ -8,5 +8,5 @@
   },
   "showUnsupportedFiles": true,
   "vimMode": true,
-  "readableLineLength": false
+  "readableLineLength": true
 }
