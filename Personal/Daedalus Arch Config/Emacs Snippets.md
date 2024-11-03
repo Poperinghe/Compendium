@@ -12,7 +12,7 @@
 
 ## Vanilla Tweaks
 
-Modifications that work out of the box without any packages. While their functionality is limited these changes are guaranteed to work even when regenerating a config without internet access. All the functions and variables used here are built into Emacs. 
+Modifications that work out of the box without any packages. While their functionality is limited these changes are guaranteed to work even when regenerating a config without internet access. Most of the functions and variables used here are built into Emacs. 
 
 ### Essential
 
@@ -54,7 +54,9 @@ Pulled from the EPITA PIE default Emacs configuration. Adds a few extremely simp
 ```lisp
 (set-face-attribute 'default nil :font "Mononoki Nerd Font Mono" :height 110)
 ```
- ## Packages
+ 
+## Packages
+### Initialization
 ```lisp
 (require 'package)
 (setq package-archives '(("gnu" . "https://elpa.gnu.org/packages/")
