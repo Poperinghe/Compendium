@@ -105,6 +105,57 @@ a1:
 
 
 
+Date: 28/10/2024
+### Exercise 1 
+```yaml
+# Find an automaton A1
+# A1: recognizes all numbers that are divisible by 3
+
+...
+```
+
+### Exercise 2
+```yaml
+# Find an automaton A2
+# A2: recognizes all words composed of the letters 'a' and 'b' that has an even number of 'a's and an odd number of 'b's.
+
+...
+```
+
+### Exercise 3 
+```c
+# Find an algorithm that matches words from the language of words haveing n 'a's then n 'b's in sequence.
+
+int match(char *word)
+{
+	size_t n = 0;
+	size_t i = 0;
+	while (*(word + i) != '\0' && *(word + i) == 'a')
+	{
+		n++;	
+		i++;
+	}
+	while (*(word + i) == 'b')
+	{
+		n--;	
+		i++;
+	}
+	return *(word + i) == '\0' && n == 0;
+}
+
+# *(word + i) == *(i + word) == word[i] == i[word]
+```
+
+### Exercise 4
+```yaml
+# Find an automaton A4
+# A4: recognizes all word composed of letters from {a, b, c} where only two of thre three possible letters are ever used.
+
+...
+```
+
+
+
 
 
 
