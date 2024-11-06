@@ -54,7 +54,11 @@ Pulled from the EPITA PIE default Emacs configuration. Adds a few extremely simp
 ```lisp
 (set-face-attribute 'default nil :font "Mononoki Nerd Font Mono" :height 110)
 ```
- 
+
+| `:font`   | sets the font from the list of system fonts (located in `~/.local/share/fonts/*.tty`). |
+| --------- | -------------------------------------------------------------------------------------- |
+| `:height` | sets the font size.                                                                    |
+
 ## Packages
 ### Initialization
 ```lisp

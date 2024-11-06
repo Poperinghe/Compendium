@@ -29,3 +29,6 @@ This whole method that we just described is the calculation of the cross correla
 
 > [!info] Window function = port function = boxcar funtion = rectangle function = pulse funcion (these are all notations for the same thing).
 
+$x\in L^1(R)$ : means that the function $x$ is integrable and its integral over $R$ is finite.
+
+Fourier transform = Fourier Series with a signal of infinite period (becomes a non periodic function) --> points of the series get closer and closer together until they become a continuous curve at infinity.
