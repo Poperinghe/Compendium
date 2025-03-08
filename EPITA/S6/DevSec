@@ -1,0 +1,68 @@
+more people looking to break things than people looking to secure them
+passing the exam:
+ - be able to read a man page
+ - knowing the basics we learned during piscine
+ - go to class (and ask questions)
+// the exam will be simple according to prof
+ - be able to give an opinion on a security flaw
+   -> how it could be fixed, how serious it is, etc...
+
+the (classic) development cycle:
+ 1. some guy writes a specsheet
+ 2. devs write code and db experts write dbs
+ 3. system engineers work on deploying the software
+ 4. testers test
+ 5. and security auditors audit security
+-> THIS SYSTEM DOES NOT WORK -> security had to be a real consideration
+during the entire development process (design phase included).
+
+** thinking about security makes modularity and proper design follow **
+
+its not always a good idea to always use every feature or technology
+available
+
+it is important to DOCUMENT bug fixes (realizing and writing down why the bug
+happened so you can think about it as you continue development)
+
+when you encounter a bug:
+     1. find the conditions to reproduce it
+     2. write the conditions into a test and add it to the testsuite
+     3. DOCUMENT why the bug occurred
+     4. (and then i guess you should also fix it)
+
+creating branches for releases:
+    when we encounter a blocking issue:
+      -> everyone stops work on next version and focuses on stabilizing the
+         release
+        -> dot release (ex: version 5.1)
+
+    the idea is to create a new branch for each major release.
+
+    and after the version is mostly stable, not everyone goes back to developing
+    new features and the new version, some are assigned the role of maintainer
+    of that version. (they work on the new branch)
+
+    but at some point you have to take the maintainers of a version back, and
+    reassign them to development (you can not just keep hiring people to
+    maintain all legacy versions).
+      -> issue of product lifetime
+        -> some versions are no longer supported.
+
+you can never test your release on every single possible system that it will be
+used on.
+
+EOL = End Of Life
+ESR = Extended Support Release (made for people who want to have support and not
+have too many stability issues)
+LTS = Long Term Support (Same thing as ESR)
+
+a bug is not necessarily a security hole.
+security has to be a first priority but it cannot come at the cost of quality
+
+CVE = Common Vulnerabilities and Exposures
+  -> database of software vulnerabilities (centralized)
+
+dont do releases on fridays
+  -> there is always a critical security issue that
+     arises at the last moment, leading to a dilemma of: do we update now or
+     take down our service for the weekend (while no one is at the office).

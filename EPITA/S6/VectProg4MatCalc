@@ -1,0 +1,8 @@
+python does not have an inbuilt array type
+  -> we can use numpy's array type (which is equivalent to a real array)
+
+the point of this class is going to be to solve problems efficiently using
+matrixes. We will have to know by ourselves if our solution works or not (there
+will not be a testsuite in the given files for the exam)
+
+TDS will be mostly exercises
